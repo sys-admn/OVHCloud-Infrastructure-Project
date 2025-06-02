@@ -1,0 +1,13 @@
+os_private_network_vlan_id = 0
+os_region                  = "BHS5"
+network_name               = "project-name"
+service_id                 = "your-service-id"
+openstack_user_name        = "your-openstack-username"
+openstack_password         = "your-openstack-password"
+openstack_tenant_name      = "your-tenant-id"
+ovh_application_key        = "your-ovh-application-key"
+ovh_application_secret     = "your-ovh-application-secret"
+ovh_consumer_key           = "your-ovh-consumer-key"
+image_name                 = "Debian 12"
+flavor_name                = "d2-2"
+ssh_public_key             = "your-ssh-public-key"
